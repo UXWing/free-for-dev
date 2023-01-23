@@ -1387,6 +1387,10 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [MDBootstrap](https://mdbootstrap.com/) - Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & huge community.
   * [Tailwind Elements](https://tailwind-elements.com/) - Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities.
 
+  * [uxwing.com](https://uxwing.com/) - Exclusive and well optimized free icons SVG and PNG download for commercial projects without attribution.
+
+
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Design Inspiration
